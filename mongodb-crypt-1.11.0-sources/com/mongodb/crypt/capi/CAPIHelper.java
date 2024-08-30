@@ -31,8 +31,6 @@ import org.bson.io.BasicOutputBuffer;
 
 import java.nio.ByteBuffer;
 
-import static com.mongodb.crypt.capi.CAPI.mongocrypt_binary_data;
-import static com.mongodb.crypt.capi.CAPI.mongocrypt_binary_len;
 import static com.mongodb.crypt.capi.CAPI.mongocrypt_binary_new_from_data;
 import static java.lang.String.format;
 

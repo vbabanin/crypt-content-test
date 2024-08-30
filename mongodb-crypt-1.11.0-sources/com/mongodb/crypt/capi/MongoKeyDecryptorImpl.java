@@ -33,7 +33,6 @@ import static com.mongodb.crypt.capi.CAPI.mongocrypt_kms_ctx_feed;
 import static com.mongodb.crypt.capi.CAPI.mongocrypt_kms_ctx_get_kms_provider;
 import static com.mongodb.crypt.capi.CAPI.mongocrypt_kms_ctx_message;
 import static com.mongodb.crypt.capi.CAPI.mongocrypt_kms_ctx_status;
-import static com.mongodb.crypt.capi.CAPI.mongocrypt_status;
 import static com.mongodb.crypt.capi.CAPI.mongocrypt_status_destroy;
 import static com.mongodb.crypt.capi.CAPI.mongocrypt_status_new;
 import static com.mongodb.crypt.capi.CAPIHelper.toBinary;
