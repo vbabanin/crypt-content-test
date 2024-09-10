@@ -1,14 +1,14 @@
 Manifest-Version: 1.0
 Automatic-Module-Name: com.mongodb.crypt.capi
-Bnd-LastModified: 1725053781545
-Build-Version: 5.1.0-74-g4d967e366c-dirty
+Bnd-LastModified: 1725945229990
+Build-Version: 5.1.0-84-g1e38914f30-dirty
 Bundle-ManifestVersion: 2
 Bundle-Name: MongoCrypt
 Bundle-SymbolicName: com.mongodb.crypt.capi
-Bundle-Version: 5.1.0.g4d967e366c-dirty
+Bundle-Version: 5.2.0.SNAPSHOT
 Created-By: 11.0.17 (Oracle Corporation)
-Export-Package: com.mongodb.crypt.capi;uses:="org.bson";version="5.1.0
- .g4d967e366c-dirty"
+Export-Package: com.mongodb.crypt.capi;uses:="org.bson";version="5.2.0
+ .SNAPSHOT"
 Import-Package: org.slf4j;resolution:=optional;version="[1.7,2)",org.b
  son;version="[5.2,6)",org.bson.assertions;version="[5.2,6)",org.bson.
  codecs;version="[5.2,6)",org.bson.codecs.configuration;version="[5.2,
